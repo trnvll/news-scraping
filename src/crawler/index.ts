@@ -1,5 +1,5 @@
 import puppeteer, { Browser, Page } from "puppeteer-core";
-import { setStealthMode } from "./crawler-utils";
+import { setStealthMode } from "./utils.crawler";
 
 class Crawler {
   constructor(private readonly browser: Browser, private readonly url: string) {}
