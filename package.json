@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "module-alias": "^2.2.3",
+    "puppeteer": "^20.8.0",
     "tsconfig-paths": "^4.2.0"
   },
   "_moduleAliases": {
