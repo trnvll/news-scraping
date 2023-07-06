@@ -1,1 +1,2 @@
-export const hey = 'hi mom!';
+
+export const hey = 'hey'
